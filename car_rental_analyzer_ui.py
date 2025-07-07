@@ -401,21 +401,21 @@ def main():
             st.markdown(f"<p style='color: #1e1e1e;'>{train_data.shape[0]} rows, {train_data.shape[1]} columns</p>", unsafe_allow_html=True)
             st.dataframe(train_data['Satisfaction'].value_counts(), use_container_width=True)
             try:
-                with open("C:/Users/Shalvi/OneDrive/Desktop/IBM GEN AI/PROJECT/CAR RENTAL CUSTOMER FEEDBACK ANALYSER/car_rental_training_data (1).csv", "rb") as file:
+                with open("car_rental_training_data (1).csv", "rb") as file:
                     st.download_button("Download Training Data CSV", file, "car_rental_training_data.csv", key="download_train")
                     st.markdown("<script>triggerConfetti();</script>", unsafe_allow_html=True)
             except FileNotFoundError:
-                st.error("Training data CSV not found.")
+                st.error("Training data CSV not found. Ensure 'car_rental_training_data (1).csv' is in the project directory.")
         with col2:
             st.markdown("<div class='tooltip'><h3>Test Data</h3><span class='tooltiptext'>Summary of test dataset</span></div>", unsafe_allow_html=True)
             st.markdown(f"<p style='color: #1e1e1e;'>{test_data.shape[0]} rows, {test_data.shape[1]} columns</p>", unsafe_allow_html=True)
             st.dataframe(test_data['Satisfaction'].value_counts(), use_container_width=True)
             try:
-                with open("C:/Users/Shalvi/OneDrive/Desktop/IBM GEN AI/PROJECT/CAR RENTAL CUSTOMER FEEDBACK ANALYSER/car_rental_test_data (1).csv", "rb") as file:
+                with open("car_rental_test_data (1).csv", "rb") as file:
                     st.download_button("Download Test Data CSV", file, "car_rental_test_data.csv", key="download_test")
                     st.markdown("<script>triggerConfetti();</script>", unsafe_allow_html=True)
             except FileNotFoundError:
-                st.error("Test data CSV not found.")
+                st.error("Test data CSV not found. Ensure 'car_rental_test_data (1).csv' is in the project directory.")
         with st.expander("Sample Training Comments"):
             page = st.number_input("Page:", min_value=1, max_value=(len(train_data) // max_comments) + 1, value=1, step=1)
             start_idx = (page - 1) * max_comments
