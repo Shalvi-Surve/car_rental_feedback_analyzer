@@ -37,18 +37,21 @@ This project leverages **DistilBERT** for sentiment analysis and zero-shot class
 **1. Clone the repository**
    ```bash
    git clone https://github.com/<your-username>/car-rental-feedback-analyzer.git
-   
+   ```
+
 **2. Install dependencies:**
    ```bash
    pip install -r requirements.txt
+   ```
 
 **3. Run the app locally:**
    ```bash
    streamlit run car_rental_analyzer_ui.py
+   ```
 
 **4. Access at:**
    http://localhost:8501.
-
+   ```
 
 ## 🎯 Purpose
 Empowers car rental companies to enhance services through AI-driven insights and showcases my skills in NLP, data visualization, and web development for portfolio and internship applications.
