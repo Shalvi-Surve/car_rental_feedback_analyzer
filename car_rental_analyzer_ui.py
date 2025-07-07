@@ -240,8 +240,8 @@ def load_data():
     logging.info("Step 1: Loading datasets...")
     start_time = time.time()
     try:
-        train_data = pd.read_csv("C:/Users/Shalvi/OneDrive/Desktop/IBM GEN AI/PROJECT/CAR RENTAL CUSTOMER FEEDBACK ANALYSER/car_rental_training_data (1).csv")
-        test_data = pd.read_csv("C:/Users/Shalvi/OneDrive/Desktop/IBM GEN AI/PROJECT/CAR RENTAL CUSTOMER FEEDBACK ANALYSER/car_rental_test_data (1).csv")
+        train_data = pd.read_csv("car_rental_training_data (1).csv")
+        test_data = pd.read_csv("car_rental_test_data (1).csv")
         logging.info(f"Train data shape: {train_data.shape}, Test data shape: {test_data.shape}")
     except FileNotFoundError as e:
         logging.error(f"CSV file not found: {e}")
@@ -505,7 +505,7 @@ def main():
         st.markdown("<div class='tooltip'><h3>Export Results</h3><span class='tooltiptext'>Download analysis as Excel with multiple sheets</span></div>", unsafe_allow_html=True)
         logging.info("Step 6: Saving results to Excel...")
         start_time = time.time()
-        output_path = "C:/Users/Shalvi/OneDrive/Desktop/IBM GEN AI/PROJECT/CAR RENTAL CUSTOMER FEEDBACK ANALYSER/analysis_results.xlsx"
+        output_path = "analysis_results.xlsx"
         with pd.ExcelWriter(output_path, engine="openpyxl") as writer:
             # Sheet 1: Big Table
             results_df.to_excel(writer, sheet_name="Full Results", index=False)
