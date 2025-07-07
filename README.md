@@ -1,20 +1,36 @@
-# Car Rental Feedback Analyzer
+# 🚗 Car Rental Feedback Analyzer
 
-A sleek, AI-powered Streamlit dashboard for analyzing car rental customer feedback, built for the IBM Gen AI Summer Course (July 2025).
+A vibrant, AI-powered Streamlit dashboard built for the **IBM Gen AI Summer Course (July 2025)** to analyze car rental customer feedback using NLP and deliver actionable insights with a Neon Cyberpunk UI.
 
-## Overview
-This project uses NLP (DistilBERT) to classify customer comments by sentiment and business area, featuring a Neon Cyberpunk UI with interactive charts, a carousel of issues, and downloadable results.
+## 🌟 Demo
+[Live Streamlit App](https://carrentalfeedbackanalyzer-ibm-shalvisurve.streamlit.app)
 
-## Features
-- **Sentiment Analysis**: Classifies feedback as satisfied/dissatisfied.
-- **Business Area Detection**: Identifies areas like Service: Attitude, Product: Pricing.
-- **Interactive Dashboard**: Plotly charts, KPI cards, and searchable tables.
-- **Exportable Results**: Outputs to `analysis_results.xlsx` with full results and summary.
-- **Neon Cyberpunk UI**: Vibrant design with confetti effects and animations.
+## 📖 Project Overview
+This project leverages **DistilBERT** for sentiment analysis and zero-shot classification to categorize customer feedback into sentiments (satisfied/dissatisfied) and business areas (e.g., Service: Attitude, Product: Pricing). Built with **Streamlit** and **Plotly**, it features interactive dashboards, KPI cards, a searchable table, and exportable Excel reports, all styled with a futuristic Neon Cyberpunk aesthetic.
 
-## Tech Stack
-- Python, Streamlit, Pandas, Transformers, Plotly, Openpyxl
+## 🔍 Key Features
+- **Sentiment Analysis**: Classifies feedback as satisfied or dissatisfied using DistilBERT.
+- **Business Area Detection**: Identifies areas like Service: Attitude or Product: Pricing.
+- **Cyberpunk Dashboards**: Interactive charts (pie, bar, histogram) and KPI cards.
+- **Real-Time Insights**: Analyze custom comments instantly.
+- **Data Export**: Download results as multi-sheet Excel or CSV files with confetti effects.
 
-## Installation
-```bash
-pip install -r requirements.txt
+## 🛠️ Tech Stack
+- **Python**: Core programming language.
+- **Streamlit**: Web app framework for the dashboard.
+- **Transformers (Hugging Face)**: For NLP models (`distilbert-base-uncased-finetuned-sst-2-english`, `typeform/distilbert-base-uncased-mnli`).
+- **Pandas & NumPy**: Data processing.
+- **Plotly**: Interactive visualizations.
+- **Openpyxl**: Excel file generation.
+
+## 📂 Project Structure
+- `car_rental_analyzer_ui.py`: Main Streamlit app script.
+- `car_rental_training_data (1).csv`: Training dataset (233 rows, 11 columns).
+- `car_rental_test_data (1).csv`: Test dataset (162 rows, 11 columns).
+- `requirements.txt`: Dependencies for deployment.
+- `analysis_results.xlsx`: Sample output (generated dynamically, not in repo).
+
+## 🚀 How to Run
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/<your-username>/car-rental-feedback-analyzer.git
