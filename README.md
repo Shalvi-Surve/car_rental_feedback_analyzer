@@ -2,6 +2,9 @@
 
 A vibrant, AI-powered Streamlit dashboard built for the **IBM Gen AI Summer Course (July 2025)** to analyze car rental customer feedback using NLP and deliver actionable insights with a Neon Cyberpunk UI.
 
+## 🌟 Streamlit Badge
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://carrentalfeedbackanalyzer-ibm-shalvisurve.streamlit.app)
+
 ## 🌟 Demo
 [Live Streamlit App](https://carrentalfeedbackanalyzer-ibm-shalvisurve.streamlit.app)
 
