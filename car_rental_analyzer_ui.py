@@ -363,7 +363,7 @@ def main():
         st.markdown("<div class='card'><h2>🌟 Project Overview</h2>", unsafe_allow_html=True)
         with st.expander("About This Project", expanded=True):
             st.markdown("""
-            <p style='color: #1e1e1e;'>The <b>Car Rental Feedback Analyzer</b> is a cutting-edge AI-powered dashboard built for the IBM Gen AI Summer Course (July 2025). It leverages NLP to analyze customer feedback, delivering actionable insights for car rental businesses.</p>
+            <p style='color: #1e1e1e;'>The <b>Car Rental Feedback Analyzer</b> is a cutting-edge AI-powered dashboard created by <b>Shalvi Atul Surve</b>, a student at <b>VIT Vellore</b>, for the <b>IBM Gen AI Summer Course (8th July 2025)</b>. It leverages NLP to analyze customer feedback, delivering actionable insights for car rental businesses.</p>
             """, unsafe_allow_html=True)
         with st.expander("Key Features"):
             st.markdown("""
@@ -381,7 +381,7 @@ def main():
             """, unsafe_allow_html=True)
         with st.expander("Purpose"):
             st.markdown("""
-            <p style='color: #1e1e1e;'>Empowers car rental companies to enhance services and showcases AI/data visualization skills for portfolios.</p>
+            <p style='color: #1e1e1e;'>Empowers car rental companies to enhance services and showcases my skills in AI, data visualization, and web development for portfolios.</p>
             """, unsafe_allow_html=True)
         st.markdown("</div>", unsafe_allow_html=True)
 
