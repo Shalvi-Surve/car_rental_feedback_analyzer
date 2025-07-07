@@ -34,7 +34,7 @@ This project leverages **DistilBERT** for sentiment analysis and zero-shot class
 - `analysis_results.xlsx`: Sample output (generated dynamically, not in repo).
 
 ## 🚀 How to Run
-**1. Clone the repository:**
+**1. Clone the repository**
    ```bash
    git clone https://github.com/<your-username>/car-rental-feedback-analyzer.git
    
