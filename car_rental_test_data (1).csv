@@ -1,0 +1,163 @@
+ID,Gender,Status,Children,Age,Customer_Status,Car_Owner,Customer_Service,Satisfaction,Business_Area,Action
+2741,Male,S,1,18.0,Active,Yes,None I  rarely rent cars,1,Product: Functioning,NA
+2742,Male,M,1,47.85,Active,No,they were extremely helpful and did whatever they could to help us.,1,Product: Functioning,NA
+2743,Female,S,0,39.79,Inactive,No,the service at the airport was very convenient.  no lines at the service desk.,1,Product: Functioning,NA
+2744,Male,M,1,52.15,Inactive,No,long lines moved quickly,1,Product: Functioning,NA
+2745,Female,M,1,64.64,Active,No,They had the class of car that I ordered.,1,Product: Functioning,NA
+2746,Female,M,2,48.21,Active,No,"Anywhere you go you will find good customer service and bad customer service.  Since I have rented so many cars, there have been too many experiences to recall so I can't say anything definitely bad",1,Product: Functioning,NA
+2747,Male,S,1,39.43,Inactive,No,No complaints.,1,Product: Functioning,NA
+2748,Male,M,1,18.0,Active,No,very limited (which is good).  quickly received car.,1,Product: Functioning,NA
+2749,Male,S,1,59.07,Inactive,No,they were fast and friendly.,1,Product: Functioning,NA
+2750,Female,M,2,45.92,Inactive,Yes,"I never had to deal with customer service. The bus dropped me off at my car, when I returned the car, I had my receipt at that moment. I then got on the bus and left. Never having to wait in a line for customer service.",1,Product: Functioning,NA
+2751,Male,M,2,18.0,Active,No,"Very nice, free upgrade",1,Product: Functioning,NA
+2752,Male,S,0,22.23,Inactive,No,Customer service was extremely helpful.  They knew I was visiting my 91 year old mother and upgraded at no cost to a car that would be more comfortable for her.,1,Product: Functioning,NA
+2753,Male,S,1,24.39,Inactive,No,"Well since I used to work for a car rental company and at the time I rented I was still working with the company, I was treated with nothing but respect and received a free upgrade as well.",1,Product: Functioning,NA
+2754,Male,D,0,32.85,Active,No,Its nice when you get in your car and it has already been started up with the A/C or heating going.,1,Product: Functioning,NA
+2755,Female,M,2,43.0,Active,No,"Very good. willing to drop me off and pick me up from location, upgraded me to higher level due to availability",1,Product: Functioning,NA
+2756,Male,M,2,61.71,Inactive,Yes,"It would be nice if they included maps to the airport drop off with the car, last time we got lost returning the car and almost missed the flight.  There was nothing on the exit that indicated rental returns.  Actually the one I really liked, was when we",0,Product: Information,NA
+2757,Male,S,1,18.0,Inactive,Yes,The car should have been brought to us instead of us trying to find it in the lot.,0,Product: Information,NA
+2758,Male,M,1,26.26,Active,No,"no wait for pick up and drop off was great, help with luggage, face to face directions to hotel, recommended entertainment for area.",1,Product: Information,NA
+2759,Female,M,2,18.0,Active,Yes,They offered detailed directions.,1,Product: Information,NA
+2760,Male,S,1,53.04,Inactive,No,Please back to lower the prices.,0,Product: Pricing and Billing,NA
+2761,Female,M,0,18.0,Inactive,No,Even economy class cars are too expensive.,0,Product: Pricing and Billing,NA
+2762,Male,M,0,49.0,Inactive,Yes,I was penalty charged because vehicle was not returned with full tank.,0,Product: Pricing and Billing,NA
+2763,Female,S,0,45.0,Active,No,"My experience up to date was  good.  It was inconvenient to return car clean, but I had to pay the hefty charge for rental.",1,Product: Pricing and Billing,NA
+2764,Male,S,1,54.02,Inactive,No,Please stop increasing the prices.,0,Product: Pricing and Billing,NA
+2765,Female,M,0,18.0,Inactive,No,price TOO HIGH and off premise location is NOT convenient.,0,Product: Pricing and Billing,NA
+2766,Male,M,0,51.0,Inactive,Yes,I do not  understand why I have to pay additional fee if vehicle is returned without a full tank.,0,Product: Pricing and Billing,NA
+2767,Female,S,0,44.0,Active,No,"My experience was positive .The thing I didnt like was returning the car with full tank.  It was time consuming, but I didn't want to pay fill-up charge to the rental company.",1,Product: Pricing and Billing,NA
+2768,Male,S,1,56.05,Inactive,No,Please lower the prices.,0,Product: Pricing and Billing,NA
+2769,Female,M,0,18.0,Inactive,No,price too high and location off premise too far,0,Product: Pricing and Billing,NA
+2770,Male,M,0,50.0,Inactive,Yes,outlining the cost of gas per gallon charged if vehicle was returned without full tank,0,Product: Pricing and Billing,NA
+2771,Female,S,0,42.0,Active,No,"My last experience was  seamless.  The only thing I didn't like was having to fill the tank with gas before turning it in.  It was inconvenient, but I didn't want to pay the hefty fill-up charge to the rental company.",1,Product: Pricing and Billing,NA
+2772,Female,M,1,64.64,Active,No,Excellent response dealing with child seat.,1,Service: Accessibility,NA
+2773,Male,M,2,46.84,Active,No,There was still a live person however we arrived very late.  We had no problems with car return.,1,Service: Accessibility,NA
+2774,Male,M,2,22.88,Active,Yes,Service was incredibly fast. Car was parked in area close to rental office.,1,Service: Accessibility,NA
+2775,Male,M,2,22.88,Active,Yes,"I reserved the car over internet,, and had no problems with pick-up of the vehicle.",1,Service: Accessibility,NA
+2776,Female,M,2,44.03,Active,No,VERY slow service!,0,Service: Accessibility,NA
+2777,Male,D,1,33.0,Active,No,Did not have some problems. My car was not ready on time.,0,Service: Accessibility,NA
+2778,Female,M,0,46.51,Inactive,No,"all went quite without hassle, they picked me up to get the car it was great.",1,Service: Accessibility,NA
+2779,Male,M,2,46.84,Active,No,"I was happy that we arrived very late and there was still a live person to help us get our rental.  We had no problems with the car, and returned it easily.",1,Service: Accessibility,NA
+2780,Male,M,2,22.88,Active,Yes,Service was fast. Car was parked close-by.,1,Service: Accessibility,NA
+2781,Male,M,2,22.88,Active,Yes,"I rented over the internet, and there were no problems with the reservation or pick-up of the vehicle.",1,Service: Accessibility,NA
+2782,Female,M,2,44.03,Active,No,fast service,1,Service: Accessibility,NA
+2783,Male,D,1,33.0,Active,No,Did not have any problems. My car was ready on time and it was the one I had asked for.,1,Service: Accessibility,NA
+2784,Male,M,0,46.51,Inactive,No,"all went quite smoothly... it was Enterprise, so they even picked me up to get the car... it was very convenient.",1,Service: Accessibility,NA
+2785,Female,S,2,40.5,Inactive,No,"I would like the personnel to pretend they care about customer, at least.",0,Service: Attitude,NA
+2786,Female,S,0,45.3,Active,Yes,Do not try sell what I do not need.,0,Service: Attitude,NA
+2787,Female,M,2,35.3,Active,Yes,Agents always want me to take extra insurance but this time they insisted too much.,0,Service: Attitude,NA
+2788,Male,M,1,66.2,Active,No,The rental car person was impertinent.,1,Service: Attitude,NA
+2789,Male,M,1,35.1,Active,Yes,Guys were extremely nice.,1,Service: Attitude,NA
+2790,Male,S,2,20.4,Inactive,No,They could really try work harder.,0,Service: Attitude,NA
+2791,Female,S,2,42.0,Inactive,No,"Based on the customer service personnel I encountered most recently, I would say it is vastly preferable for the personnel to be able to at least pretend to care whether the customer ever actually receives a car rental that was reserved months in advance.",0,Service: Attitude,NA
+2792,Female,S,0,48.53,Active,Yes,they should not try so hard to up sell,0,Service: Attitude,NA
+2793,Female,M,2,33.49,Active,Yes,"""Agents usually try to get you to take insurance and pay for full tank of gas.  Some persist even after a """"no thanks.""""  Even after noting preferences on my frequent user file that says I don't want them.""",0,Service: Attitude,NA
+2794,Male,M,1,64.8,Active,No,The rental car guy was cute.,1,Service: Attitude,NA
+2795,Male,M,1,38.0,Active,Yes,For the most part they are very nice.,1,Service: Attitude,NA
+2796,Male,S,2,21.78,Inactive,No,"""I guess it really DOES """"try harder.""""""",1,Service: Attitude,NA
+2797,Male,M,0,45.51,Inactive,Yes,what customer service? It was a nightmare,0,Service: Knowledge,NA
+2798,Female,S,1,57.55,Inactive,No,"""""""sorely lacking""""  helpdesk was not much helpfull""",0,Service: Knowledge,NA
+2799,Female,S,1,39.43,Inactive,No,"It took quite a long time, about 45 minutes to an hour.  Several attendants but the line was about 20-25 deep.  Check out was very quick.  A minute or two was all.  Overall a pretty good experience.",0,Service: Knowledge,NA
+2800,Male,S,2,53.28,Inactive,No,they could not provide driving directions,0,Service: Knowledge,NA
+2801,Female,M,0,55.97,Active,No,"friendly, but could not making any decisions on own",0,Service: Knowledge,NA
+2802,Female,M,2,44.98,Active,No,They forgot to ask for my driver's license.,0,Service: Knowledge,NA
+2803,Male,M,0,42.17,Inactive,No,"States have different rules and regulations pertaining to speed, radar detectors, even when light should be on.  Customer services reps should have a handout or be knowledgeable of a particular state's laws.",0,Service: Knowledge,NA
+2804,Female,S,0,53.01,Inactive,No,Customer service was fine.  We didn't care for the off site location.  Would not use that car rental company at that airport again.,0,Service: Knowledge,NA
+2805,Male,S,1,43.91,Active,Yes,"The rental clerk was nice, but I swear she was deaf.  We had to repeat everything twice and although we had a reservation she treated us like a walk in, so that all the information that we gave to reserve the car we had to repeat all over again.",0,Service: Knowledge,NA
+2806,Female,M,1,18.0,Active,Yes,the rep was friendly but it was so loud in there that I could not hear what she was saying. I HATE having to walk across a big lot with all of my bags in search of my car which is always in the furthest corner.,0,Service: Knowledge,NA
+2807,Male,M,1,52.15,Inactive,No,They should upgrade me every time.,0,Service: Knowledge,NA
+2808,Male,M,1,58.71,Inactive,Yes,"customer service was great until we returned the car.  I experienced an issue with damage to the car, and felt that things were left unanswered and still waiting for a response from them.",0,Service: Knowledge,NA
+2809,Male,S,1,18.0,Active,Yes,Having knowledgeable personnel is very important,0,Service: Knowledge,NA
+2810,Male,S,2,53.28,Inactive,No,"It was good, got the car we wanted without much of a wait in picking up and dropping off",1,Service: Knowledge,NA
+2811,Female,M,2,49.05,Active,Yes,adequate to the price. It was fine,1,Service: Knowledge,NA
+2812,Male,M,2,35.65,Active,No,Person very friendly but only person working counter,1,Service: Knowledge,NA
+2813,Male,M,2,18.0,Active,No,"They provided good service.   It was easy to make on-line reservations, the airport bus took me directly and quickly to the car, gas tank filled, customer service friendly and helped with directions and luggage.",1,Service: Knowledge,NA
+2814,Female,S,2,55.0,Active,No,The car rental company that I went with had very good customer service. They were out of a certain car I reserved and gave me a upgrade and apologized.,1,Service: Knowledge,NA
+2815,Male,M,0,64.8,Active,No,"Experience was fine, usually try to get you to upgrade.",1,Service: Knowledge,NA
+2816,Female,M,2,18.0,Active,No,good,1,Service: Knowledge,NA
+2817,Male,M,1,54.96,Active,Yes,Customer Service was fine. They were able to upgrade me for $2 a day to the next class...that was nice.,1,Service: Knowledge,NA
+2818,Female,S,0,18.0,Active,No,They were helpful and accommodating when I wanted to change the color of the car.,1,Service: Knowledge,NA
+2819,Male,S,1,18.0,Active,No,The customer service was excellent,1,Service: Knowledge,NA
+2820,Male,S,0,20.0,Inactive,No,Experience was fine,1,Service: Knowledge,NA
+2821,Male,M,2,34.95,Active,No,"Have not rented a car since last October.  Customer Service was good, shuttle service was available to and from airport.  Scheduled pickup was on time and they even found a package we had left in the car and brought it to the shuttle.",1,Service: Knowledge,NA
+2822,Female,S,0,52.65,Active,Yes,it was a great experience,1,Service: Knowledge,NA
+2823,Male,S,1,62.79,Inactive,Yes,No problems encountered,1,Service: Knowledge,NA
+2824,Male,S,0,18.0,Inactive,No,Very satisfactory. Employees were very helpful in providing directions.,1,Service: Knowledge,NA
+2825,Male,M,1,26.26,Active,No,Customer Service was quick and friendly.  I received my car with little hassles.,1,Service: Knowledge,NA
+2826,Female,M,2,33.6,Active,Yes,Customer service was good at MSP airport and the process was very fast.  From getting off of the plane to leaving with my rental car was less than 45 minutes.,1,Service: Knowledge,NA
+2827,Male,M,0,21.38,Active,No,no complaints,1,Service: Knowledge,NA
+2828,Male,M,0,27.26,Active,Yes,Friendly and very well informed,1,Service: Knowledge,NA
+2829,Female,M,0,60.0,Active,Yes,It was fine,1,Service: Knowledge,NA
+2830,Male,S,0,18.0,Inactive,No,"Employees had nice, new uniforms.",1,Service: Knowledge,NA
+2831,Female,M,2,47.97,Active,No,"customer service was very good and very professional, energetic",1,Service: Knowledge,NA
+2832,Male,S,0,32.0,Active,No,customer service was OK,1,Service: Knowledge,NA
+2833,Male,S,2,56.47,Active,No,"Customer service was great, but I wish they had searched the car when I returned it.  I left my Palm Pilot in the backseat for 2 days before I noticed it was missing!  Fortunately the car was still in the lot when I called and they were able to ship it to me.",1,Service: Knowledge,NA
+2834,Male,M,0,60.37,Active,No,they were fine.,1,Service: Knowledge,NA
+2835,Male,M,2,52.63,Active,No,they were very nice and willing to help in any way they could,1,Service: Knowledge,NA
+2836,Female,S,2,55.0,Active,No,"it was fine, I had no problem at all.",1,Service: Knowledge,NA
+2837,Female,M,1,62.0,Active,Yes,They were very good and took care of what I needed. Very quick.,1,Service: Knowledge,NA
+2838,Female,S,2,43.0,Active,Yes,The customer service people were very nice.  During my vacation I locked my keys in the car.  The rental company sent someone out with a new set of keys to unlock the car.,1,Service: Knowledge,NA
+2839,Male,S,0,18.0,Active,No,Everything went fine.  Folks were friendly and informed.,1,Service: Knowledge,NA
+2840,Male,M,0,53.68,Active,Yes,"It was okay, we got the car quickly, which is the most important thing",1,Service: Knowledge,NA
+2841,Male,M,2,25.03,Active,Yes,No suggestions.  Customer Service was good.,1,Service: Knowledge,NA
+2842,Female,M,0,41.0,Active,No,Customer service was outstanding. Got a free upgrade without even asking. Everyone was very courteous and friendly.,1,Service: Knowledge,NA
+2843,Male,S,0,21.0,Inactive,No,Everyone was very friendly. They even drove us to the airport since we were running late for our flight.,1,Service: Knowledge,NA
+2844,Female,M,2,31.13,Active,Yes,All the people I dealt with were pleasant and helpful.,1,Service: Knowledge,NA
+2845,Male,M,1,64.8,Active,No,they were very nice,1,Service: Knowledge,NA
+2846,Male,M,2,32.85,Active,No,Everything was fine with my last car rental.,1,Service: Knowledge,NA
+2847,Female,M,2,50.75,Active,No,"It was a good experience, received an upgrade at no charge.",1,Service: Knowledge,NA
+2848,Male,M,1,59.13,Active,No,they were friendly,1,Service: Knowledge,NA
+2849,Female,M,1,52.0,Active,Yes,We did not have any trouble with customer service. No complaints.,1,Service: Knowledge,NA
+2850,Female,M,2,30.89,Active,No,They were friendly and helpful enough.,1,Service: Knowledge,NA
+2851,Female,M,2,31.13,Active,Yes,My last rental experience for leisure was fine -- no service issues to speak of.,1,Service: Knowledge,NA
+2852,Male,M,0,24.55,Active,No,service was excellent,1,Service: Knowledge,NA
+2853,Male,M,0,64.8,Active,No,No problems,1,Service: Knowledge,NA
+2854,Male,S,1,43.91,Active,Yes,customer service was OK,1,Service: Knowledge,NA
+2855,Female,S,1,53.12,Active,Yes,People were nice.  Service was fast.,1,Service: Knowledge,NA
+2856,Female,S,2,56.19,Inactive,No,"Customer Service is great since you don't have to deal with any people, per se.  The car is ready and waiting for you and the shuttle just drops you off to it.",1,Service: Knowledge,NA
+2857,Male,S,0,49.27,Active,No,Good experience with all the rental co.'s I contacted. I Just called with rental dates and received pricing and selected rental co.,1,Service: Knowledge,NA
+2858,Male,M,2,53.25,Active,Yes,No problems,1,Service: Knowledge,NA
+2859,Male,M,1,47.85,Active,No,Customer service was fine,1,Service: Knowledge,NA
+2860,Male,M,1,54.96,Active,Yes,Customer service went out of their way to provide a car that would fit our needs,1,Service: Knowledge,NA
+2861,Female,M,2,26.03,Active,No,"Our customer service representative was polite and well-dressed. He smiled appropriately and answered my questions, not from a rehearsed script, but from his own frame of reference. He shirt was neatly pressed and his hair was professionally coifed.",1,Service: Knowledge,NA
+2862,Female,S,0,55.0,Active,No,"They were actually very nice. It was in Rome and there was a language barrier, but we overcame it.",1,Service: Knowledge,NA
+2863,Female,M,0,45.51,Active,Yes,The woman at the counter was friendly and tried to accommodate me as best she could. The counter was close to the terminal and the whole thing was quick and expedient.,1,Service: Knowledge,NA
+2864,Female,M,2,41.92,Active,No,Customer service was friendly and helpful.,1,Service: Knowledge,NA
+2865,Female,M,2,44.03,Active,No,They were competent.,1,Service: Knowledge,NA
+2866,Male,S,2,55.64,Active,No,"very friendly, brought the car to the hotel",1,Service: Knowledge,NA
+2867,Male,M,2,18.84,Active,No,The customer service was very friendly and knowledgeable.  She suggested to upgrade to the SUV and it worked out much better for our trip.,1,Service: Knowledge,NA
+2868,Male,M,0,64.8,Active,No,it was fine,1,Service: Knowledge,NA
+2869,Male,S,1,18.77,Active,No,Staff member was very pleasant. Provided map/directions to my hotel.,1,Service: Knowledge,NA
+2870,Male,M,2,53.25,Active,Yes,Customer service was fine,1,Service: Knowledge,NA
+2871,Female,M,2,53.37,Active,Yes,"The people were very nice.  Directions to and from our hotel, the rental company location and tourists attractions were given and they were happy to help us out.",1,Service: Knowledge,NA
+2872,Male,M,0,38.41,Active,No,Customer service was fine as I recall. No problems.,1,Service: Knowledge,NA
+2873,Male,S,1,39.21,Inactive,Yes,It was very late at night and the customer service representative was very obliging and courteous.,1,Service: Knowledge,NA
+2874,Male,M,2,18.0,Active,No,it was fine.,1,Service: Knowledge,NA
+2875,Female,M,2,44.93,Active,No,I had no problems with the service,1,Service: Knowledge,NA
+2876,Male,S,2,55.64,Active,No,the line was slow but the agent was ok,1,Service: Knowledge,NA
+2877,Female,S,0,46.0,Active,No,"They were great as far as I could tell, they explained what needed to be done to use the University pricing.",1,Service: Knowledge,NA
+2878,Male,M,2,51.52,Active,Yes,The service was polite and professional. I was attended to quickly and courteously.,1,Service: Knowledge,NA
+2879,Male,M,2,22.88,Active,Yes,Customer service was very good.,1,Service: Knowledge,NA
+2880,Female,M,1,48.0,Active,Yes,Customer service was very good,1,Service: Knowledge,NA
+2881,Female,M,2,41.0,Active,No,service was good.,1,Service: Knowledge,NA
+2882,Male,M,2,51.52,Active,Yes,I would have to say that Enterprise car rental has the best customer service. They are very friendly and helpful.,1,Service: Knowledge,NA
+2883,Female,M,2,41.92,Active,No,"The service I have is always good, I have used the same company for many years and I know the counter personnel personally.  It is always good to know that they are willing to help you in any situation.",1,Service: Knowledge,NA
+2884,Female,M,2,41.98,Active,Yes,"Last time I rented a car was when I went skiing with my whole family.  We got a Chevy Blazer.  We didn't think it was as large as a Ford Explorer, so we asked to switch.  The agent was very nice and gave us the Ford Explorer.",1,Service: Knowledge,NA
+2885,Male,M,0,54.01,Active,No,"I did everything on-line - never talked to an agent during booking.  There were no problems, even though I had to switch car sizes after initial reservation. Agent on duty for pick-up was courteous.",1,Service: Knowledge,NA
+2886,Female,M,2,30.89,Active,No,I recently rented a car and they were outstanding.  The customer service rep was very helpful and courteous.  They even let me extend my rental by a couple of hours for no charge at all. I was very pleased with my experience and I would go back.,1,Service: Knowledge,NA
+2887,Female,S,0,22.0,Inactive,No,Wonderful experience - the rental and whole process was seamless,1,Service: Orders/Contracts,NA
+2888,Male,M,1,52.1,Active,Yes,"They had problem to find reservation number, so whole process took too long time.",0,Service: Orders/Contracts,NA
+2889,Male,M,2,60.2,Inactive,Yes,It took us almost three hours just to get a car! It was absurd.,0,Service: Orders/Contracts,NA
+2890,Female,M,2,44.1,Active,No,Provide more convenient car pickup from the airport parking.,0,Service: Orders/Contracts,NA
+2891,Male,M,2,50.1,Active,No,"We dealt with customer service at car pick-up place, and drive off in few minutes.",1,Service: Orders/Contracts,NA
+2892,Male,M,1,52.1,Active,Yes,We got our car very quickly.,1,Service: Orders/Contracts,NA
+2893,Male,S,0,55.2,Inactive,No,"I get keys from customer service and was able to start my vacation,it was nice",1,Service: Orders/Contracts,NA
+2894,Female,M,1,44.2,Active,Yes,I have never rented the car for a week.  It was great experience. It was in agreement with what my friend said about this company.,1,Service: Orders/Contracts,NA
+2895,Female,S,0,24.0,Inactive,No,greater expedience - the rental and whole process was easy and fast,1,Service: Orders/Contracts,NA
+2896,Male,M,1,54.96,Active,Yes,"They couldn't find my confirmation number in their system, which was rather frustrating.",0,Service: Orders/Contracts,NA
+2897,Male,M,2,61.71,Inactive,Yes,The company was overwhelmed by the number of customers verse the number of available agents and they were not articulating their situation to the customers well enough. I think we waited for almost 3 hours just to get a rental car. It was ridiculous.,0,Service: Orders/Contracts,NA
+2898,Female,M,2,45.36,Active,No,Provide more frequent pickup from the airport.,0,Service: Orders/Contracts,NA
+2899,Male,M,2,52.87,Active,No,"We dealt very little with customer service, and we only walked to the car assigned for us, and drive away.",1,Service: Orders/Contracts,NA
+2900,Male,M,1,53.68,Active,Yes,we got the car quickly,1,Service: Orders/Contracts,NA
+2901,Male,S,0,53.69,Inactive,No,I did not need to deal with customer service on my last vacation rental which was nice,1,Service: Orders/Contracts,NA
+2902,Female,M,1,43.0,Active,Yes,"For leisure/vacation, I have never personally rented the car.  I have always left that up to my significant other and she did not complain to use this company",1,Service: Orders/Contracts,NA
