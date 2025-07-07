@@ -335,11 +335,11 @@ def main():
     # Sidebar for navigation and settings
     with st.sidebar:
         st.markdown("<h2 style='color: #f72585;'>Dashboard</h2>", unsafe_allow_html=True)
-        tab_selection = st.radio("", ["Overview", "Dataset", "Analyze Feedback", "Key Findings", "Insights"], label_visibility="collapsed")
+        tab_selection = st.radio("Navigation", ["Overview", "Dataset", "Analyze Feedback", "Key Findings", "Insights"], label_visibility="visible")
         st.markdown("<hr style='border-color: #00f5d4;'>", unsafe_allow_html=True)
         st.markdown("<h3 style='color: #00f5d4;'>Settings</h3>", unsafe_allow_html=True)
-        max_comments = st.slider("Comments per page:", 5, 50, 10, help="Adjust to control comment display speed")
-        max_predictions = st.slider("Comments to analyze:", 10, 500, 100, step=10, help="Lower for faster loading")
+        max_comments = st.slider("Comments per page", 5, 50, 10, help="Adjust to control comment display speed")
+        max_predictions = st.slider("Comments to analyze", 10, 500, 20, step=10, help="Lower for faster loading")
         st.markdown("<p style='color: #ffffff;'>Tune for cyberpunk vibes! ✨</p>", unsafe_allow_html=True)
 
     # Load data
