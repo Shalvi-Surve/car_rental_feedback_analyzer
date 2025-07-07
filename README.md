@@ -50,6 +50,7 @@ This project leverages **DistilBERT** for sentiment analysis and zero-shot class
    ```
 
 **4. Access at:**
+   ```
    http://localhost:8501.
    ```
 
@@ -57,10 +58,10 @@ This project leverages **DistilBERT** for sentiment analysis and zero-shot class
 Empowers car rental companies to enhance services through AI-driven insights and showcases my skills in NLP, data visualization, and web development for portfolio and internship applications.
 
 
-##🙌 Acknowledgments
+## 🙌 Acknowledgments
 IBM Gen AI Summer Course for the learning platform.
 Hugging Face for pre-trained models.
 Streamlit Community for deployment support.
 
 
-Feel free to star ⭐ this repository if you find it useful!
+## Feel free to star ⭐ this repository if you find it useful!
