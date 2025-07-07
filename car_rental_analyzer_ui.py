@@ -18,7 +18,7 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(message)s')
 # Streamlit page configuration
 st.set_page_config(page_title="Car Rental Feedback Analyzer", layout="wide")
 
-# Custom CSS for Neon Cyberpunk (Enhanced)
+# Custom CSS for Neon Cyberpunk (Shadow removed)
 st.markdown("""
 <style>
 body {
@@ -33,13 +33,6 @@ body {
 h1, h2, h3 {
     color: #00f5d4;
     font-family: 'Montserrat', sans-serif;
-    text-shadow: 0 0 12px #00f5d4, 0 0 24px #f72585;
-    animation: glow 2s ease-in-out infinite;
-}
-@keyframes glow {
-    0% { text-shadow: 0 0 12px #00f5d4, 0 0 24px #f72585; }
-    50% { text-shadow: 0 0 18px #00f5d4, 0 0 30px #f72585; }
-    100% { text-shadow: 0 0 12px #00f5d4, 0 0 24px #f72585; }
 }
 .hero {
     background: linear-gradient(45deg, #00f5d4, #f72585);
