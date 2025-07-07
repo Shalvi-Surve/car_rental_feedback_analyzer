@@ -59,9 +59,9 @@ Empowers car rental companies to enhance services through AI-driven insights and
 
 
 ## 🙌 Acknowledgments
-IBM Gen AI Summer Course for the learning platform.
-Hugging Face for pre-trained models.
-Streamlit Community for deployment support.
+- IBM Gen AI Summer Course for the learning platform.
+- Hugging Face for pre-trained models.
+- Streamlit Community for deployment support.
 
 
 ## Feel free to star ⭐ this repository if you find it useful!
